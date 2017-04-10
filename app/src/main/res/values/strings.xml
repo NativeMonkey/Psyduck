@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">可达</string>
+    <string name="tab1_name">可达</string>
+    <string name="tab2_name">商城</string>
+    <string name="tab3_name">消息</string>
+    <string name="tab4_name">我的</string>
+</resources>

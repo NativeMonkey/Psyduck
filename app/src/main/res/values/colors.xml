@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcc66</color>
+    <color name="colorPrimaryDark">#ffcc66</color>
+    <color name="colorAccent">#ffcc66</color>
+    <color name="colorwhite">#ffffffff</color>
+    <color name="colorblack">#ff000000</color>
+    <color name="colorgray">#ffcccccc</color>
+    <color name="bottemcolorgray">#66cccccc</color>
+    <color name="orange_color">#ffcc66</color>
+    <color name="halftransparent">#e0000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!--页面背景的颜色-->
+    <color name="colorPageBg">#f2f4f5</color>
+
+    <color name="colorTheme">#ffcc66</color>
+
+    <color name="tv_default">#8a8a8a</color>
+
+    <color name="colorWhite">#ffffffff</color>
+    <!--分割线-->
+    <color name="colorLine">#EBEBEB</color>
+    <!--tab标签栏文字的颜色-->
+    <color name="colorTabText">#585858</color>
+
+    <color name="black">#ff000000</color>
+    <color name="black2">#ffeeeeee</color>
+    <color name="red">#FC2828</color>
+    <color name="black1">#7A7E83</color>
+    <!-- 透明 -->
+    <color name="transgray">#33555555</color>
+    <color name="transparent2">#50000000</color>
+    <!--窗体颜色 -->
+    <color name="windows_color">#F5F5F5</color>
+    <color name="greeny">#00CB0D</color>
+    <color name="bar_color">#232325</color>
+
+
+    <color name="color1">#fff</color>
+    <color name="color2">#f00</color>
+    <color name="color3">#FECD52</color>
+    <color name="color4">#145CB9</color>
+    <color name="color5">#21AE58</color>
+
+</resources>
