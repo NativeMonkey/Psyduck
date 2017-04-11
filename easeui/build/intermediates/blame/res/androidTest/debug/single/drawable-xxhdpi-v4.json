@@ -152,12 +152,12 @@
         "source": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ee_10.png"
     },
     {
-        "merged": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ease_chatting_biaoqing_btn_enable.png",
-        "source": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ease_chatting_biaoqing_btn_enable.png"
-    },
-    {
         "merged": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ee_48.png",
         "source": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ee_48.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ease_chatting_biaoqing_btn_enable.png",
+        "source": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ease_chatting_biaoqing_btn_enable.png"
     },
     {
         "merged": "D:\\AndroidDemo\\Psyduck\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ee_17.png",
